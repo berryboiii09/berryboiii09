@@ -10,8 +10,4 @@ My name is Ahmed, I'm a Frontend and 3D Game Developer from Egypt ![.](https://r
 
 [Check out My Portfolio!](https://ahmed-hany-said.vercel.app)
 
-#
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/315947330077458444)](https://discord.com/users/315947330077458444)
-
 ![](https://api.visitorbadge.io/api/VisitorHit?user=berryboiii09f&repo=berryboiii09&countColor=%237B1E7A)
