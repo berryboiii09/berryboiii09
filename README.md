@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**berryboiii09/berryboiii09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ahmed, I'm a Frontend and 3D Game Developer from Egypt ![.](https://raw.githubusercontent.com/ashleedawg/flags/master/EG.png)
 
-Here are some ideas to get you started:
+## Technologies and tools that I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,electron,tauri,nextjs,vscode,webstorm,unity,blender,ps,visualstudio,git,androidstudio&perline=9)](https://skillicons.dev)
+
+#
+
+[Check out My Portfolio!](https://ahmed-hany-said.vercel.app)
+
+#
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/315947330077458444)](https://discord.com/users/315947330077458444)
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=berryboiii09f&repo=berryboiii09&countColor=%237B1E7A)
